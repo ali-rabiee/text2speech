@@ -37,22 +37,6 @@ This is a Streamlit-based web application that converts text to speech. It suppo
 
 2. Open your web browser and go to `http://localhost:8501` to access the app.
 
-## Dependencies
-
-- `streamlit`
-- `gTTS`
-- `PyPDF2`
-- `python-docx`
-- `transformers`
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
 ## Acknowledgments
 
 - The app uses the [gTTS](https://pypi.org/project/gTTS/) library for text-to-speech conversion.
