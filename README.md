@@ -8,6 +8,10 @@ This is a Streamlit-based web application that converts text to speech. It suppo
 - **Text Input**: Manually input text to convert to speech.
 - **Text Summarization**: Summarize the input text using a pre-trained summarization model.
 - **Text-to-Speech Conversion**: Convert both original and summarized text to speech and download the audio files.
+## Demo
+https://github.com/user-attachments/assets/bb638483-dc0a-4cb9-a7e8-7d02de398488
+
+
 
 ## Installation
 
