@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/bb638483-dc0a-4cb9-a7e8-7d02de398488
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text2speech.git
+   git clone https://github.com/ali-rabiee/text2speech.git
    cd text2speech
    ```
 
