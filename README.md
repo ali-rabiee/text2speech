@@ -1,6 +1,6 @@
 # Text-to-Speech App
 
-This is a Streamlit-based web application that converts text to speech. It supports text extraction from uploaded Word and PDF files, manual text input, and text summarization using a machine learning model.
+This is a Streamlit-based web application that converts text to speech. It supports text extraction from uploaded Word and PDF files, manual text input, and text summarization using an LLM model.
 
 ## Features
 
